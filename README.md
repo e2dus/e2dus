@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text="AI%20Developer"&fontSize=60&theme=gruvbox_light&fontAlign=70&fontAlignY=30&height=200)
 <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e2dus&show_icons=true&theme=radical)
 ## 🙋‍♂️ My history..
 * 수리고등학교 졸업(~2021)
 * 중앙대학교 Ai학과 재학중(2022.03~)
