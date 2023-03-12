@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text="AI%20Developer"&fontSize=60&theme=gruvbox_light&fontAlign=70&fontAlignY=30&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&text=AI%20Developer&fontSize=60&theme=gruvbox_light&fontAlign=70&fontAlignY=30&height=200)
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e2dus&show_icons=true&theme=radical)
 ## 🙋‍♂️ My history..
