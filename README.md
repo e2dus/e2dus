@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text="AI%20Developer"&fontSize=60&theme=gruvbox_light&fontAlign=70&fontAlignY=30&height=200)
 <br/>
 ## I am...
-_수리고 졸업_
-_중앙대학교 Ai학과 22학번_
+### _수리고 졸업_
+### _중앙대학교 Ai학과 22학번_
 ## Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ant6942)](https://solved.ac/ant6942)    
 <br/>
